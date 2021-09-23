@@ -1,4 +1,4 @@
-package CucumberTest.TestCase;
+package Cucumbermodule.Body;
 
 public class App {
   public static void main(String[] args) {

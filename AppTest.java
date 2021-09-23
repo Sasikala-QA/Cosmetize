@@ -1,4 +1,4 @@
-package CucumberTest.TestCase;
+package Cucumbermodule.Body;
 
 import org.junit.jupiter.api.Test;
 
